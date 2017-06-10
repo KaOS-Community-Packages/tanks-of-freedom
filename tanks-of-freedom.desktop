@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Tanks of freedom
+GenericName=Turn-based strategy
+Comment=A classic turn-based strategy game with two armies fighting against each other.
+Exec=/usr/bin/launch-tanks-of-freedom.sh
+Icon=tanks-of-freedom
+StartupNotify=true
+Terminal=False
+Type=Application
+Categories=Game;
